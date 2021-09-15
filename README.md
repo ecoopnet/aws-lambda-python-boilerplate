@@ -1,7 +1,9 @@
 # AWS lambda boilerplate
 
-## 環境
 ローカル動作確認用 docker つき、python開発用ボイラープレートです。
+
+## 環境
+- python3.8
 
 ## ファイル・フォルダ構造
 - Makefile  ... デプロイ用zip作成、docker 実行用 Makefile
